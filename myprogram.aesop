@@ -1,0 +1,14 @@
+A r1 10
+S r1 1
+jz 10
+j 1
+n
+n
+n
+n
+n
+n
+n
+n
+A r3 16
+q
